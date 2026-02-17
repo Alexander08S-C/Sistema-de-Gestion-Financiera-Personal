@@ -3,6 +3,11 @@
 Sistema web completo para el control de finanzas personales desarrollado con Laravel y Vue.js. Permite gestionar cuentas bancarias, registrar ingresos y gastos, visualizar estadísticas financieras en tiempo real mediante gráficos interactivos.
 
 <img width="1852" height="912" alt="image" src="https://github.com/user-attachments/assets/27e865e6-d767-4f73-b727-1fdc5fb83111" />
+<img width="1854" height="510" alt="image" src="https://github.com/user-attachments/assets/10497c65-02cc-468b-b621-340210bf714a" />
+<img width="1865" height="844" alt="image" src="https://github.com/user-attachments/assets/bc241fad-8fb6-4178-958b-0e7250138967" />
+<img width="1857" height="883" alt="image" src="https://github.com/user-attachments/assets/7e84abc4-240f-453f-8c0d-6b63c84914e5" />
+
+
 
 ## 🚀 Características Principales
 
