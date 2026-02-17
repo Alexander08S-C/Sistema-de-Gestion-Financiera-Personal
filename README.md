@@ -2,7 +2,7 @@
 
 Sistema web completo para el control de finanzas personales desarrollado con Laravel y Vue.js. Permite gestionar cuentas bancarias, registrar ingresos y gastos, visualizar estadísticas financieras en tiempo real mediante gráficos interactivos.
 
-![Dashboard Preview](screenshot.png)
+<img width="1852" height="912" alt="image" src="https://github.com/user-attachments/assets/27e865e6-d767-4f73-b727-1fdc5fb83111" />
 
 ## 🚀 Características Principales
 
@@ -172,8 +172,8 @@ finance-dashboard/
 ## 👨‍💻 Autor
 
 **Alexander**
-- GitHub: [@tuusuario](https://github.com/tuusuario)
-- LinkedIn: [Tu perfil](https://linkedin.com/in/tuperfil)
+- GitHub:  https://github.com/Alexander08S-C
+- LinkedIn: https://linkedin.com/in/alexander-jesus-sanchez-clemente-934164327/
 - Email: alexander08s.c@hotmail.com
 
 ## 📝 Licencia
